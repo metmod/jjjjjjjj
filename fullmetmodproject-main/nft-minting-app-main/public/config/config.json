@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3da658B71370fe5839b76321fE48Afd2493de09c",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3da658B71370fe5839b76321fE48Afd2493de09c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "MetMod": "The Stripes NFT",
+  "Mmod": "TSNFT",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
